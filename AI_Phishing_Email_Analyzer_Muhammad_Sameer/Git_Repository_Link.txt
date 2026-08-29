@@ -1,6 +1,0 @@
-Git Repository Link
-
-Add your GitHub repository link here after uploading the project.
-
-Example:
-https://github.com/your-username/ai-phishing-email-analyzer

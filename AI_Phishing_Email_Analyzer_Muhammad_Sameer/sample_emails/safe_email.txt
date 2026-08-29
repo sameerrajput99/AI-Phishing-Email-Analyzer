@@ -1,8 +1,0 @@
-Sender: hr@company.com
-Subject: Meeting schedule update
-
-Hello team,
-The weekly meeting has been moved to Thursday at 3 PM. Please check the calendar invite for details.
-
-Regards,
-HR Team

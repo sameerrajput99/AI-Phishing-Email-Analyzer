@@ -1,9 +1,0 @@
-AI Assistance Note
-
-I used AI assistance to understand the final project requirements, plan the project structure, simplify the development steps, and improve the explanation of phishing email analysis, automated incident reporting, and cybersecurity workflow.
-
-AI was used as a learning and guidance tool. I reviewed the project files, ran the application, tested the sample emails, and verified the generated outputs before submission.
-
-Name: Muhammad Sameer
-Project: AI-Powered Phishing Email Analyzer with Automated Incident Reporting
-Internship Role: AI, Automation & Security Engineering Intern
