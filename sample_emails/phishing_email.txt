@@ -1,0 +1,7 @@
+Sender: support@paypa1-security.com
+Subject: Your account will be suspended today
+
+Urgent action required. Your account has unusual login activity. Click here to verify your login password within 24 hours or your account will be blocked.
+
+Link: http://paypa1-security-login.com/verify
+Attachment: invoice.pdf.exe
