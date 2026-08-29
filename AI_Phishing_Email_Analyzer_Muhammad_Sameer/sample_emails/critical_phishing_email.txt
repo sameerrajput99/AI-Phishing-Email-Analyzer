@@ -1,0 +1,7 @@
+Sender: accounts-security@gmail.com
+Subject: Final warning: bank account blocked
+
+Your bank account is suspended. Reply with your OTP and password immediately to restore access. Open the link below and confirm your identity now.
+
+Link: http://192.168.12.55/login
+Attachment: statement.zip
